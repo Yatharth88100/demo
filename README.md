@@ -1,3 +1,2 @@
 # demo
-\
-ccujhnd
+this is my first project 
